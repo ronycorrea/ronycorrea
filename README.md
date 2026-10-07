@@ -52,9 +52,7 @@
 ## Atividade no GitHub
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ronycorrea/ronycorrea/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha comendo os commits" />
-
+  <img src="https://raw.githubusercontent.com/ronycorrea/ronycorrea/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha dos commits" />
 </div>
 
 ---
