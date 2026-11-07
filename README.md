@@ -2,7 +2,6 @@
 
 # Olá 👋, eu sou Ronald Corrêa
 
-### Estudante de Ciência da Computação | Desenvolvedor de Sistemas e Web
 
 <img src="https://komarev.com/ghpvc/?username=ronycorrea&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="ronycorrea" />
 
@@ -14,7 +13,6 @@
 - 💻 Atualmente curso **Ciência da Computação**
 - 🚀 Atuo com **desenvolvimento de sistemas, sites e aplicações web**
 - 📚 Busco aprimorar constantemente meus conhecimentos em **programação, desenvolvimento de software, tecnologias web e banco de dados**
-- 🐧 Utilizo Linux e também trabalho com Windows
 - 🎮 Gosto de tecnologia, programação e jogos indie
 
 ---
